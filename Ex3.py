@@ -1,0 +1,4 @@
+dia = input("Digite seu dia de nascimento ")
+mes = input("Digite seu mês de nascimento ")
+ano = input("Digite seu ano de nascimento ")
+print("Sua data de nascimento é {}/{}/{}".format(dia, mes, ano)) 
